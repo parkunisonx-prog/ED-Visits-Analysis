@@ -13,3 +13,7 @@ The data is visualized through a MongoDB Atlas dashboard to explore trends and d
 - Distribution of Emergency Visits by Measure Type 
 - Trends in Emergency Visits by Primary Payment Source (2016–2022) 
 - Emergency Visit Rates by Age Groups
+
+## Dashboard 
+<img width="2560" height="1117" alt="Screenshot 2026-04-20 at 3 41 17 PM" src="https://github.com/user-attachments/assets/7fab2698-5cb9-4f57-943e-24c49af69ca4" />
+
